@@ -12,7 +12,7 @@ spec:
          labels:
            app: myapp
            training: gitops-basic 
-spec:
+       spec:
          containers:
          - name: nginx
            image: nginx:latest
